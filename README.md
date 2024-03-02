@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zunayed</h1>
-<h3 align="center">A machine learning engineer and an aspiring software engineer based in Dhaka, Bangladesh.</h3>
+<h3 align="center">A backend developer and data engineer based in Dhaka, Bangladesh.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
