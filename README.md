@@ -86,8 +86,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codepen" height="30" alt="codepen logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
@@ -105,10 +103,6 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
 </div>
