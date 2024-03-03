@@ -1,12 +1,16 @@
-<h1 align="center">Hi! This is Zunayed.</h1>
+<h1 align="center">This is Zunayed</h1>
 
 ###
 
 <p align="center">I am a self-taught software engineer and a programming instructor with 2 years of experience. I am also a quick learner and I relish the opportunity to work in teams and thrive on meeting new people in diverse environment. With a strong desire to pursue a career in the corporate tech industry, I am eager to contribute my skills and knowledge to a field that is constantly evolving and changing the world as we know it.</p>
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+  
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zunayedology" target="_blank">
@@ -26,6 +30,7 @@
   </a>
 </div>
 
+  
 ###
 
 <br clear="both">
@@ -106,6 +111,10 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+  
 ###
 
 <div align="center">
