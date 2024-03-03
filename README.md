@@ -109,10 +109,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunayedology&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&custom_title=Zunayed's%20GitHub%20Graph&theme=one-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zunayedology&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&custom_title=My%20GitHub%20Graph&theme=material-palenight&area=true&hide_border=true&hide_title=false&radius=16" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zunayedology&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=material-palenight&hide_border=true&custom_title=My%20most%20used%20languages" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zunayedology.zunayedology&right_color=dimgray&left_text=Profile%20View%20Count"  />
+</div>
 
 ###
