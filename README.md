@@ -108,12 +108,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zunayedology/zunayedology/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zunayedology&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&custom_title=Zunayed's%20GitHub%20Graph&theme=one-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
