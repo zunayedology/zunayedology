@@ -33,7 +33,7 @@
   
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
