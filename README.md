@@ -118,8 +118,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&custom_title=Zunayed&theme=github-dark&area=true&hide_border=true&hide_title=false&radius=16" height="120" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zunayedology&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&custom_title=My%20most%20used%20languages" height="120" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&custom_title=Zunayed&theme=github-dark&area=true&hide_border=true&hide_title=true&radius=16" height="130" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zunayedology&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&custom_title=My%20most%20used%20languages" height="130" alt="languages graph"  />
 </div>
 
 ###
