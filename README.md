@@ -10,8 +10,6 @@
   
 ###
 
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/zunayedology" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -29,11 +27,8 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
   
 ###
-
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
@@ -108,10 +103,25 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-  
+
 ###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&custom_title=Zunayed&theme=github-dark&area=true&hide_border=true&hide_title=true&radius=16" height="130" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zunayedology&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&custom_title=My%20most%20used%20languages" height="130" alt="languages graph"  />
 </div>
+
+### 
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div>
+
+###
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
+</div>
+<div>
+  
+###
