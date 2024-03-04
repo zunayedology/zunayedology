@@ -4,9 +4,9 @@
 
 <p align="center">I am a self-taught software engineer and a programming instructor with 2 years of experience. I am also a quick learner and I relish the opportunity to work in teams and thrive on meeting new people in diverse environment. With a strong desire to pursue a career in the corporate tech industry, I am eager to contribute my skills and knowledge to a field that is constantly evolving and changing the world as we know it.</p>
 
-</div>
+<!-- </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
+<div> -->
   
 ###
 
@@ -100,9 +100,9 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
 
 ###
 
@@ -112,16 +112,3 @@
 </div>
 
 ### 
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-
-###
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
-</div>
-<div>
-  
-###
