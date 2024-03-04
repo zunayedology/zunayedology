@@ -2,8 +2,6 @@
 
 ###
 
-<p align="center">I am a self-taught software engineer and a programming instructor with 2 years of experience. I am also a quick learner and I relish the opportunity to work in teams and thrive on meeting new people in diverse environment. With a strong desire to pursue a career in the corporate tech industry, I am eager to contribute my skills and knowledge to a field that is constantly evolving and changing the world as we know it.</p>
-
 <!-- </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div> -->
@@ -27,7 +25,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-  
+
+###
+
+<p align="center">I am a self-taught software engineer and a programming instructor with 2 years of experience. I am also a quick learner and I relish the opportunity to work in teams and thrive on meeting new people in diverse environment. With a strong desire to pursue a career in the corporate tech industry, I am eager to contribute my skills and knowledge to a field that is constantly evolving and changing the world as we know it.</p>
+
 ###
 
 <div align="center">
