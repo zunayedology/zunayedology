@@ -15,7 +15,7 @@
   <a href="zunayedology@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/zunayedology" target="_blank">
+  <a href="https://www.facebook.com/dear.zunayed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/zunayedology" target="_blank">
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I am a self-taught software engineer and a programming instructor with 2 years of experience. I am also a quick learner and I relish the opportunity to work in teams and thrive on meeting new people in diverse environment. With a strong desire to pursue a career in the corporate tech industry, I am eager to contribute my skills and knowledge to a field that is constantly evolving and changing the world as we know it.</p>
+<p align="center">Zunayed brings a combination of software engineering and machine learning expertise to the table.  His experience spans web development, honed at Robi where he works in teams developing SaaS applications. He has interned at Chevron, enhancing productivity with innovative solutions. Zunayed holds a bachelor’s degree in CS from BRAC University, where he further solidified his knowledge by tutoring a couple of CS courses. His research interests lie in the application of RL for NLP and blockchain scalability, which are complemented by his projects in building AI for gaming and full-stack web applications.  Zunayed is highly organized and a productive individual. While he fancies escaping reality by playing video games and exploring new horizons, his professional focus remains unwavering.</p>
 
 ###
 
