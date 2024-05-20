@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">Zunayed brings a combination of software engineering and machine learning expertise to the table.  His experience spans web development, honed at Robi where he works in teams developing SaaS applications. He has interned at Chevron, enhancing productivity with innovative solutions. Zunayed holds a bachelor’s degree in CS from BRAC University, where he further solidified his knowledge by tutoring a couple of CS courses. His research interests lie in the application of RL for NLP and blockchain scalability, which are complemented by his projects in building AI for gaming and full-stack web applications.  Zunayed is highly organized and a productive individual. While he fancies escaping reality by playing video games and exploring new horizons, his professional focus remains unwavering.</p>
+<p align="center">Zunayed brings a combination of software engineering and machine learning expertise to the table.  His experience spans web development, honed at Robi where he works in teams developing SaaS applications. He has interned at Chevron, enhancing productivity with innovative solutions. Zunayed holds a bachelor’s degree in CS from BRAC University, where he further solidified his knowledge by tutoring a couple of programming courses. His research interests lie in the application of reinforcement learning on NLP and blockchain scalability, which are complemented by his projects in building AI for gaming and full-stack web applications.  Zunayed is highly organized and a productive individual. While he fancies escaping reality by playing video games and exploring new horizons, his professional focus remains unwavering.</p>
 
 ###
 
