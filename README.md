@@ -34,6 +34,12 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&radius=50&theme=material&area=true&order=5&hide_border=false&hide_title=true&bg_color=0D1117&line=0F6D31&point=00C647&area_color=034525&color=0F6D31" height="250" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -127,8 +133,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&radius=50&theme=material&area=true&order=5&hide_border=false&hide_title=true&bg_color=0D1117&line=0F6D31&point=00C647&area_color=034525&color=0F6D31" height="250" alt="activity-graph graph"  />
-</div>
-
-### 
