@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&radius=50&theme=material&area=true&order=5&hide_border=false&hide_title=true&bg_color=0D1117&line=0F6D31&point=00C647&area_color=034525&color=0F6D31" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&radius=0&theme=material&area=true&order=5&hide_border=true&hide_title=true&bg_color=0D1117&line=0F6D31&point=00C647&area_color=034525&color=0F6D31" height="270" alt="activity-graph graph"  />
 </div>
 
 ###
