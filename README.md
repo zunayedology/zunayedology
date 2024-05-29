@@ -61,6 +61,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
 </div>
 
 ###
@@ -83,16 +85,18 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-</div>
-
-###
-
-<div align="center">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<div align="center">
+
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -100,12 +104,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -117,16 +115,10 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-</div>
-
-###
-
-<div align="center">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
