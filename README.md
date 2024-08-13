@@ -33,8 +33,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zunayedology&locale=en&hide_title=true&layout=compact&card_width=220&langs_count=8&theme=gotham&hide_border=true&order=2" height="200" alt="languages graph"  />
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zunayedology&locale=en&hide_title=true&layout=compact&card_width=220&langs_count=8&theme=gotham&hide_border=true&order=2" height="200" alt="languages graph"  /> -->
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zunayedology&radius=50&theme=material&area=true&order=5&hide_border=true&hide_title=true&bg_color=0C1014&line=3572A5&point=F1E05A&area_color=1D365D&color=E34C26" height="150" alt="activity-graph graph"  /> -->
 </div>
 
