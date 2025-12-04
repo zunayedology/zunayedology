@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center">Hello there! My name is Md Zunayedul Islam — but feel free call me Zunayed. I'm a Software Engineer specialized in AI/ML and an Erasmus Mundus IPCVAI student. I've worked on real-world software solutions, co-authored academic papers, and explored scalable RAG systems — always with a bias for practical impact and a curiosity for what's next in AI. Whether it's deep learning, computer vision, or building tech that doesn't hallucinate under pressure, I thrive in interdisciplinary projects and teams that think out-of-the-box. I believe, technology shouldn't just solve human problems — it should empower!</p>
+<p align="center">Greetings! I'm Md Zunayedul Islam, an engineer from Bangladesh – currently pursuing the Erasmus Mundus IPCVai program. I've worked on real-world software solutions, co-authored academic papers, and explored scalable RAG systems – always with a bias for practical impact and a curiosity for "what's next?". Whether it's AI or building tech that doesn't hallucinate under pressure, I thrive in teams that think outside the box. I believe, technology shouldn't just solve human problems — it should empower!</p>
 
 ###
 
